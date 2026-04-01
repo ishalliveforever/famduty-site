@@ -785,6 +785,36 @@ li + li {
   margin-top: 18px;
 }
 
+.preview-caption-row .section-note {
+  margin: 0;
+  max-width: 46rem;
+}
+
+.preview-cta-card {
+  display: grid;
+  gap: 10px;
+  min-width: 220px;
+  padding: 16px;
+  border: 1px solid rgba(126, 180, 255, 0.16);
+  border-radius: 22px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.05), transparent 36%),
+    linear-gradient(145deg, rgba(21, 35, 66, 0.96), rgba(12, 20, 37, 0.96));
+  box-shadow: 0 18px 32px rgba(5, 12, 28, 0.2);
+}
+
+.preview-cta-label {
+  color: #9dc2ff;
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.preview-cta-button {
+  width: 100%;
+}
+
 
 .footer {
   justify-content: space-between;
