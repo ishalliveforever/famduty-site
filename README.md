@@ -33,6 +33,6 @@ Static landing site for FamDuty, designed for easy GitHub Pages publishing.
 
 ## Before launch
 
-- Replace `support@famduty.app` if you want a different support email.
+- Replace `famdutyapp@gmail.com` if you want a different support email.
 - Replace the App Store CTA link when your App Store URL is ready. The TestFlight link is already wired in.
 - Swap the screenshot placeholders with real screenshots if you want.
